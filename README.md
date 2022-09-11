@@ -1,16 +1,16 @@
-### Hi there 👋
+# :man_technologist: Guilherme Araújo Silva
 
-<!--
-**guilhermearaujo1902/guilhermearaujo1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-araújo-silva-7906b380/)](https://www.linkedin.com/in/guilherme-araújo-silva-7906b380/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gui.araujo1902@gmail.com)](mailto:gui.araujo1902@gmail.com)
 
-Here are some ideas to get you started:
+## Hello! I am Gui Araújo, Full Stack Developer and enthusiastic for technology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :blue_heart: Full Stack Developer at [**Philips**](https://www.linkedin.com/company/philips/mycompany/verification/)
+- :office_worker: Stack: Java, Javascript, HTML, CSS and PostgreSQL.
+- :books: Studing: Typescript, Angular and PLSQL.
+
+<div align="center">
+  <a href="https://github.com/guilhermearaujo1902">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermearaujo1902&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermearaujo1902&layout=compact&langs_count=7&theme=dracula"/>
+</div>
